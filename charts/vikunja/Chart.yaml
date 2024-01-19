@@ -1,0 +1,10 @@
+apiVersion: v2
+type: application
+name: vikunja
+deprecated: false
+description: |-
+  The open-source, self-hostable to-do app. Organize everything, on all platforms.
+  Also one of the two wild South American camelids which live in
+  the high alpine areas of the Andes and a relative of the llama.
+version: 0.1.8
+appVersion: 0.20.4
