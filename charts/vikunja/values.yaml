@@ -1,4 +1,4 @@
 image:
   repository: vikunja/frontend
   pullPolicy: IfNotPresent
-  tag: "0.20.5"
+  tag: "0.22.0"
